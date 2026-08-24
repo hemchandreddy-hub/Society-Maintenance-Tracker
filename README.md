@@ -182,7 +182,7 @@ The app uses **Nodemailer with Ethereal** (free test SMTP). All emails are captu
 
 On server start, the console logs Ethereal credentials:
 ```
-📧 Email service initialized (Ethereal Test SMTP)
+   Email service initialized (Ethereal Test SMTP)
    Ethereal user: xxx@ethereal.email
    Ethereal pass: xxxxx
 ```
