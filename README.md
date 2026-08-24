@@ -2,7 +2,7 @@
 
 A full-stack platform for apartment societies to manage maintenance complaints. Residents can raise complaints with photos, admins manage them with priorities and status tracking, and everyone stays informed through a notice board and email notifications.
 
-![Login](https://img.shields.io/badge/Auth-JWT-blue) ![DB](https://img.shields.io/badge/DB-SQLite-green) ![API](https://img.shields.io/badge/API-REST-orange)
+
 
 ## Features
 
